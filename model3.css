@@ -1,0 +1,46 @@
+
+html{
+    margin-left: 35px;
+    
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(243, 240, 240);
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    align-content: flex-end;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+    
+    
+}
+ul a{
+    text-decoration: none;
+    color: inherit
+}
+#contact-no{
+    background:rgb(21, 49, 136);
+    color: white;
+    margin-right: 35px;
+}
+#main1{
+    display: flexbox;
+    background: rgb(48, 151, 82);
+    overflow: auto;
+}    
+
+#logo{
+    padding-top: 22px;
+}
+#img1{
+    text-align:right;   
+}
+#phone{
+    
+}
