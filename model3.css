@@ -31,7 +31,7 @@ ul a{
 }
 #main1{
     display: flexbox;
-    background: rgb(48, 151, 82);
+    /*background: rgb(48, 151, 82);*/
     overflow: auto;
 }    
 
